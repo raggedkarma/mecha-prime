@@ -13,3 +13,9 @@ Trigger
 
 Reward
 :	This is the reward granted by meeting the ghost's *trigger*. Usually this is in the form of an *Overdrive* die placed in the *Overdrive* pool.
+
+
+##Notes
+
+1. Ghosts are fantastic springboards for interesting character detail;  
+2. A mecha without a Ghost does not have an *Overdrive* pool;  

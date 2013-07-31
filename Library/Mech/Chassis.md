@@ -6,10 +6,10 @@ Model Number
 :	This is an identifier for the players to distinguish between various mecha chassis.
 
 Manufacture
-:	This section comprises of the following:
-	
-	1. *Company:* The name of the company that originally developed the mech chassis.
-	2. *History:*	Each chassis was originally designed to meet a specific need, usually with an intended loadout. This was usually iteratively updated and refined over time, leading to the current chassis. Some are the products of famous inventors or wars, but all have a history, which is detailed here.
+:	*Ref: /Library/Mech/Manufacture*
+
+Speed
+:	A general indication of the quickness of the chassis.
 
 Flashpoint
 :	This rating determines the point from which *Overdrive* dice are considered *Overheating* dice in the *Overdrive* pool.
@@ -20,10 +20,16 @@ Armour
 Structure
 :	The structure rating is depleted by damage. Once reduced to zero, the mech is no longer functional.
 
-Sockets
-:	The number of weapons and upgrades which may be embedded in this chassis.
-:	>Ref: /Library/Weapon
-:	>Ref: /Libary/Mech/Upgrade
+Hardpoints
+:	*Ref: /Library/Mech/Weapon*
+:	The number of weapons which may be installed in this chassis, and their approximate physical location.
 
-Price
-:	The cost of a new version of this make and model of chassis.
+Hackpoints
+:	*Ref: /Libary/Mech/Upgrade*
+:	The number of upgrades which may be installed in this chassis, each with possibly an upgrade category limit.
+
+
+##Notes
+
+1. Despite similarities, no upgrade may be installed in a hardpoint, and likewise no weapon in a hackpoint;  
+2. All weapons are available for all actions if they are not offline and in range;  

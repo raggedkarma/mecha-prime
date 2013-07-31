@@ -1,14 +1,12 @@
 Weapon
 =====
 
+
 Model Number
 :	This is an identifier for the players to distinguish between various weapons.
 
 Manufacture
-:	This section comprises of the following:
-	
-	1. *Company:* The name of the company that originally developed the weapon.
-	2. *History:*	Every weapon has a story, a need it was built to fulfil. Some were iterated, built on sound principles. Others bold new approaches to the theatre of war.
+:	*Ref: /Library/Mech/Manufacture.*
 
 Range
 :	Range at which the weapon may be used.
@@ -20,9 +18,14 @@ Firepower
 :	This determines how many dice are added to a Manoeuvre action depending on target type.
 
 Overdrive Abilities
+:	*Ref: /Library/Mech/OverdriveAbility*
 :	A special action or capability the weapon may bring to bear.
 
-	> Ref: /Library/Mech/OverdriveAbility
-	
-Price
-:	The cost of a new version of this weapon.
+Offline
+:	This effect text will detail the penalties (if any) a mech may suffer if this weapon was to go *offline*. 
+
+
+##Notes
+
+1. A mech pilot may fire all eligible weapons per turn;  
+2. A pilot may only ever use a single *Overdrive Ability* per weapon per turn;  

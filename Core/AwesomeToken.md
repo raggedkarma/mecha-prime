@@ -16,9 +16,9 @@ The GM may award Awesome Tokens for interesting manoeuvre descriptions. If the c
 
 ##2. Spending Awesome Tokens
 
-For **one** Token, a character may make a free strike, achievement or overdrive power action, even if they have already acted this turn. It may also may be used to *Catch Your Breath*. This free action may be taken at any time, even between other characters' actions.
+For **one** Token, a character may make a free action *except a manoeuvre*, even if they have already acted this turn. It may also may be used to *Catch Your Breath*. This free action may be taken at any time, even between other characters' actions.
 
->Awesome Tokens cannot be used to take a manoeuvre action (forgetting this exception leads to a breakdown of the system, so make sure to remember it).
+>Awesome Tokens cannot be used to take a free manoeuvre action (forgetting this exception leads to a breakdown of the system, so make sure to remember it).
 
 For **two** Tokens, a character may take damage on behalf of another. This only applies once damage is determined, and so differences in defense values have no effect.
 

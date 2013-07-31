@@ -1,30 +1,18 @@
 System
 =====
 
-1. Terms
-	1. GM
-	2. Player
-		1. Party
-	3. Character
-		1. Individual
-		2. Squad
-		3. Swarm
-	4. Actor
+1. Lexicon
 2. Conflict Scenes
 	1. Pools
 		1. Action
 		2. Strike
-	2. Actions
-		1. Manoeuvre
-			1. Combined
-		2. Attack
-		3. Catch Your Breath
+	2. Ranges
+	3. Actions
 3. Narrative Scenes
 	1. Recover
 
-##1. Terms
-
-
+##1. Lexicon
+*Ref: /Library/Lexicon*
 
 ##2. Conflict Scenes
 
@@ -53,29 +41,61 @@ This represents the moment of truth for a character. That tipping point in any c
 
 This pool is defaults to being empty, with various actions taken by a character allowing them to increase the number of dice in this pool.
 
-###2.2 Actions
-The following actions are available to all conflict participants, but nearly all have basic pool requirements which is indicated under the name of the action. This is the required number of dice that must be invested from the actor's pool, to the maximum presented. If a character does not have enough dice in the particular pool, they may not use that action.
+####2.2 Ranges
+While it specifically relevant only to the conflict of combat, the distance between combatants begins to apply. There are only three broad *Ranges* to a combat:
 
-####2.2.1 Manoeuvre
-*Action Pool: [1] to [3]*
-These are dramatic actions which nudge the conflict closer to the acting character's intentions. The actor has nearly complete narrative freedom to describe the characters actions taken, from nervouse firefights to thunderous oratory. It is recommended that players leverage this freedom to describe interesting, compelling descriptions.
+Close Quarters (CQ)
+:	This is incredibly close, up to a few metres. The range of a punch or very crude firearms.
 
-Each success rolled on a Manoeuvre action will create a *Strike* die, which is added to the character's *Strike* pool, to a maximum of five. If no successes are rolled, the roll is considered a failure.
+Firefight (FF)
+:	The majority of combat takes place at this range, and so the majority of weapons are effective within this distance.
 
-#####2.2.1.1 Combined Manoeuvres
+Extreme (EX)
+:	The furthest shots that can be taken, often remote-targetted.
 
+###2.3 Actions
+*Ref: /Library/Action*
 
-####2.2.2 Attack
-*Strike Pool: [1] to [6]*
-Successes rolled on an Attack action are compared to the defense of the target. A wound is inflicted if the number of successes is equal to or greater than the target's defense. Should the number of successes be equal to or greater than a multiple of the target's defense, the attack inflicts multiple wounds.
+Name
+:	Manoeuvre
 
-If the number of success is less than the target's defense, the roll is a failure.
+Investment
+:	Action: [1] to [3]
 
-####2.2.3 Catch Your Breath
-*No requirement*
-This action represents the character making time to recover their wits, possibly hunker down to discuss strategy or similar restorative action. The character may return up to two dice back to their Action Pool.
+Effect
+:	These are dramatic actions which nudge the conflict closer to the acting character's intentions. The actor has nearly complete narrative freedom to describe the characters actions taken, from nervouse firefights to thunderous oratory. It is recommended that players leverage this freedom to describe interesting, compelling descriptions.
+	
+	When nominating a target, the actor must possess a weapon or item which allows them to affect their opponent at that range. Otherwise, they must use their manoeuvre description to close or further the range to their desired target.
+	
+	Irrespective of narration, every success rolled on a Manoeuvre action will create a *Strike* die, which is added to the character's *Strike* pool, to a maximum of five. If no successes are rolled, the roll is considered a failure.
 
-These dice are added at the end of the turn, after every other effect.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+Name
+:	Attack
+
+Investment
+:	Strike: [1] to [6]
+
+Effect
+:	Successes rolled on an Attack action are compared to the defense of the target. A wound is inflicted if the number of successes is equal to or greater than the target's defense. Should the number of successes be equal to or greater than a multiple of the target's defense, the attack inflicts multiple wounds.
+
+	If the number of success is less than the target's defense, the roll is a failure.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Name
+:	Catch Your Breath
+
+Investment
+: *None*
+
+Effect
+:	This action represents the character making time to recover their wits, possibly hunker down to discuss strategy or similar restorative action. The character may return up to two dice back to their Action Pool.
+
+	These dice are added at the end of the turn, after every other effect.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##3. Narrative
 

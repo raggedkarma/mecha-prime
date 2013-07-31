@@ -1,16 +1,17 @@
 Condition
 =======
 
-1. What Is A Condition?
-2. How To Read A Condition
 
-##1. What Is A Condition?
-A condition is an effect that represents certain circumstances, such as personal or environmental advantages or hindrances.
-If a condition should have an effect on a character’s dice pool, only apply it once per turn, even if that character takes additional actions with *Awesome Tokens*.
+Name
+:	The name of the condition for mechanical discussion.
 
-##2. How To Read A Condition
-A condition is identified by its effect scope: individual or overarching. Attempts to counter a condition must take the effect scope into account.
+Scope
+:	The condition will either affect a **target** or an **area**.  Attempts to counter the condition must take the scope into effect.
 
-By default, a condition has an **individual** effect. This means that they affect a single character.
+Effect
+:	The actual mechanical effect of the condition for those affected by it. If a condition should have an effect on a character’s dice pool, only apply it once per turn, even if that character takes additional actions with *Awesome Tokens*
 
-An **overarching** condition affects multiple characters, usually everyone within a designated area.
+
+##Notes
+
+1. A condition is an effect that represents certain circumstances, such as personal or environmental advantages or hindrances.
