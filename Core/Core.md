@@ -12,7 +12,7 @@ System
 	1. Recover
 
 ##1. Lexicon
-*Ref: /Library/Lexicon*
+*Ref: /Library/Library*
 
 ##2. Conflict Scenes
 
