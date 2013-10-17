@@ -15,7 +15,7 @@ System
 *Ref: /Library/Library*
 
 ##2. Conflict Scenes
-A conflict is a mechanical approximation of any demanding sequence of events with a notable outcome. The most recognisable form of conflict is a violent confrontation, or combat conflict, but anything which can tire out the participants and provides a long-term impact applies.
+A conflict is a mechanical approximation of any demanding sequence of events with a notable outcome. The most recognisable form of conflict is a violent confrontation, or combat conflict, but anything which can tire out the participants and may provide long-term consequence applies.
 
 During a conflict, both the GM and the Party take turns. A round is finished once both sides have completed their turn, and a new round begins. The GM has the final decision which side begins the conflict, and when the conflict scene is over.
 
