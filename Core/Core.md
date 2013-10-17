@@ -15,34 +15,35 @@ System
 *Ref: /Library/Library*
 
 ##2. Conflict Scenes
+A conflict is a mechanical approximation of any demanding sequence of events with a notable outcome. The most recognisable form of conflict is a violent confrontation, or combat conflict, but anything which can tire out the participants and provides a long-term impact applies.
 
 During a conflict, both the GM and the Party take turns. A round is finished once both sides have completed their turn, and a new round begins. The GM has the final decision which side begins the conflict, and when the conflict scene is over.
 
 Within their turn each character may take an action, in any order. During the Party's turn, the players may decide amongst themselves in which order their characters perform an action. The GM is free to decide in her turn the order of her character's actions. A character or adversity only has one action per round by default.
 
-All game actions of mechanical importance use a number of six-sided dice, referred to as an *action* or *roll*. A character has contextual access to a number of collections of dice, or *pools*, which are used to construct rolls.
+All game actions of mechanical importance use a number of six-sided dice, referred to as an *action* or *roll*. A character has contextual access to a number of collections of dice, or *pools*. All rolls are built with dice drawn from one or more pools.
 
 > Every die with a result of three or greater is a success.
 
 ###2.1 Pools
-The size of a pool changes over the course of the game. If dice are committed from a pool for a roll, the success of the roll determines what happens to the dice:
+The size of a pool changes over the course of the game. If dice are committed from a pool for a roll, the success of the roll determines what happens to those dice:
 
->**If the roll is a success**, the dice are discarded, effectively reducing dice from the pool.
+>**If the roll is a success**, the dice are discarded, removing them from their pool.
 
 >**If the roll is a failure**, the committed dice are returned to the pool.
 
 ####2.1.1 Action
 A character has a pool of dice representing their stamina, drive and current level of physical and mental exhaustion.
 
-This pool defaults to being at capacity of 10, and is depleted through conflict, and replenished primarily outside of it.
+This pool defaults to being at capacity of 10, and is depleted through conflict, but replenishes over time. Conflict action rolls must draw at least one die from the Action pool.
 
 ####2.1.2 Strike
-This represents the moment of truth for a character. That tipping point in any conflict where victory can be seized.
+This represents the tipping point in any conflict where victory can be seized.
 
-This pool is defaults to being empty, with various actions taken by a character allowing them to increase the number of dice in this pool.
+This pool is resets to empty, with various character actions increasing the number of dice in this pool.
 
 ####2.2 Ranges
-While it specifically relevant only to the conflict of combat, the distance between combatants begins to apply. There are only three broad *Ranges* to a combat:
+While it specifically relevant only to combat conflicts, the distance between combatants begins to apply. There are only three broad *Ranges* to a combat:
 
 Close Quarters (CQ)
 :	This is incredibly close, up to a few metres. The range of a punch or very crude firearms.
