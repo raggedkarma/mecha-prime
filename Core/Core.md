@@ -23,6 +23,8 @@ Within their turn each character may take an action, in any order. During the Pa
 
 All game actions of mechanical importance use a number of six-sided dice, referred to as an *action* or *roll*. A character has contextual access to a number of collections of dice, or *pools*. All rolls are built with dice drawn from one or more pools.
 
+*Ref: /Library/Action*
+
 > Every die with a result of three or greater is a success.
 
 ###2.1 Pools
