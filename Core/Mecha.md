@@ -14,7 +14,7 @@ Mecha
 
 ##2. Overdrive
 
-A mech is capable of being pushed further than the manufacturers and pit crew would prefer, and hard limiters are in place to safguard against reckless piloting. Any pilot worth his salt will deactivate or even rip out such safeguards, making their mech respond faster, cycle ammunition quicker and allow their subconsciousness deeper OS access. However, a pilot must be careful not to overtax his mech, or he may cross the flashpoint, and start causing damage as systems overheat, glitch, and possibly lead to catastrophic failures.
+A mech is capable of being pushed further than the manufacturers and pit crew would prefer, and hard limiters are in place to safguard against reckless piloting. Any pilot worth his salt will deactivate or even rip out such safeguards, making their mech respond faster, cycle ammunition quicker and allow their subconscious deeper OS access. However, a pilot must be careful not to overtax his mech, or he may cross the flashpoint, and start causing damage as systems overheat, glitch, and possibly lead to catastrophic failures.
 
 ###2.1 Overdrive Pool
 All mecha have an additional pool referred to as an *Overdrive* pool. Dice in this pool may be spent to push their mech's systems to greater effect, as specified in the system details.
