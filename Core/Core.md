@@ -45,13 +45,13 @@ This represents the tipping point in any conflict where victory can be seized.
 This pool is resets to empty, with various character actions increasing the number of dice in this pool.
 
 ####2.2 Ranges
-While it specifically relevant only to combat conflicts, the distance between combatants begins to apply. There are only three broad *Ranges* to a combat:
+While it specifically relevant only to combat conflicts, the distance between combatants begins to apply. There are only three broad *Range* bands to a combat:
 
 Close Quarters (CQ)
-:	This is incredibly close, up to a few metres. The range of a punch or very crude firearms.
+:	This is very close, up to a few metres. The range of a punch, jets of liquid, or very crude firearms.
 
 Firefight (FF)
-:	The majority of combat takes place at this range, and so the majority of weapons are effective within this distance.
+:	The majority of combat takes place at this range, and so the majority of weapons are optimised for these distances.
 
 Extreme (EX)
 :	The furthest shots that can be taken, often remote-targetted.

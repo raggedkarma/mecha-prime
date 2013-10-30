@@ -15,13 +15,13 @@ Party
 :	A group of player-controlled characters, or PC.
 
 Individual
-:	
+:	A single opponent.
 
 Squad
-:	
+:	A small group of opponents as a unit, which is treated as a single target.
 
-Swarm
-:	
+Horde
+:	A swarm of creatures with a unifying goal, which is treated as a single target.
 
 Actor
 :	The currently active character's controller, either a player or the GM.

@@ -44,15 +44,15 @@ Investment
 Effect
 :	*Ref: /Library/Mecha/Weapon*
 
-:	A mech may use their embedded weapons to gain bonus dice, depending on the target type and range. Notably, every weapon in range may contribute their available bonus dice to a manoeuvre.
+:	A mech may use their embedded weapons to gain bonus dice, depending on the target type and optimal range. Notably, every functioning weapon in optimal range may contribute their available bonus dice to a manoeuvre.
 
-	A mech in combat may also instead rely on their speed, and roll the Speed rating of the mech's chassis. Note that, in addition of altering the description of the manoeuvre, may allow the mech to alter their Range against a particular foe.
+	A mech in combat may also rely on their speed to gain an advantage, gaining the mech's Speed rating in bonus dice. Utilising this option prevents the use of weapon bonus dice as described above. A success in this manoeuvre will allow the actor to choose their Range band against their target.
 
-	Each success rolled on a Mech Manoeuvre action, except sixes, will create a *Strike* die as default, which is added to the character's *Strike* pool. Every success die of six creates an *Overdrive* die, which is added to the *Overdrive* pool. The maximum number of dice created for pools from a manoeuvre is limited to a maximum of five, though should more successes be rolled the actor may choose which dice pool is increased. If no successes are rolled, the roll is considered a failure.
+	Each success rolled on a Mech Manoeuvre action, except sixes, will create a *Strike* die as default, which is added to the character's *Strike* pool. Every success die with a result of six creates instead an *Overdrive* die, which is added to the mech's *Overdrive* pool. The maximum number of dice created for pools from a single manoeuvre is limited to a maximum of five, though should more successes be rolled the actor may choose which dice pool is increased. If no successes are rolled, the roll is considered a failure.
 
 	This replaces the default manoeuvre action for mecha.
 
 ###2.4 Overheat
 If the Overdrive pool for a character is equal to or greater than the the Flashpoint rating of the character's chassis, such dice are qualified as *Overheat* dice. They are still considered part of the *Overdrive* pool, and may be spent as *Overdrive* dice.
 
-If a mech suffers any amount of damage in combat, any *Overheat* dice are rolled, but not spent from the pool. For each success, a mech system is taken **offline**. The pilot may select which systems are offline. If the success is a six, in addition to the system going offline (and the initial damage to the mech), the pilot suffers a wound.
+If a mech suffers any amount of damage in combat, any *Overheat* dice are rolled, but not removed from the pool. For each success, a mech system is taken **offline**. The pilot may select which systems are offline. If the success is a six, the pilot also suffers a wound.
