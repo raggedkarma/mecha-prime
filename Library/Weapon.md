@@ -8,13 +8,13 @@ Model Number
 Manufacture
 :	*Ref: /Library/Mech/Manufacture*
 
-Range
-:	Range at which the weapon may be used.
+Optimal Range [CQ / FF / EX]
+:	The Range band at which the weapon may be used to notable effect.
 
 Weapon Type
 :	General weapon group this particular weapon falls under.
 
-Firepower
+Firepower [0-4] x Type [I, S, H]
 :	This determines how many dice are added to a Manoeuvre action depending on target type.
 
 
