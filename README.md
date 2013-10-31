@@ -21,7 +21,7 @@ All files use [MarkDown](http://daringfireball.net/projects/markdown), and have 
 
 Files may refer to other files using a file path (without extension) in the following manner:
 
->Ref /Library/Example
+>Ref: /Library/Example
 
 ###Core
 The Core folder contains files detailing how to play and run the game, and build characters and mecha. Note that the Core uses plural file names, except for the base Core file.
