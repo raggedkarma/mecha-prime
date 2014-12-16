@@ -66,7 +66,7 @@ Investment
 :	Action: [1] to [3]
 
 Effect
-:	These are dramatic actions which nudge the conflict closer to the acting character's intentions. The actor has nearly complete narrative freedom to describe the characters actions taken, from nervouse firefights to thunderous oratory. It is recommended that players leverage this freedom to describe interesting, compelling descriptions.
+:	These are dramatic actions which nudge the conflict closer to the acting character's intentions. The actor has nearly complete narrative freedom to describe the characters actions taken, from desperate firefights to thunderous oratory. It is recommended that players leverage this freedom to describe interesting, compelling actions.
 	
 	When nominating a target, the actor must possess a weapon or item which allows them to affect their opponent at that range. Otherwise, they must use their manoeuvre description to close or further the range to their desired target.
 	
